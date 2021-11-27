@@ -12,5 +12,6 @@ public class OrderMenu
         System.out.println("4. Grosery");
         int n=Integer.parseInt(ins.readLine());
         System.out.println("Your Order number is "+n);
+        System.out.println("Thanks for coming");
     }
 }
